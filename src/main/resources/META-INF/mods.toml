@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="socialblock"
+version="${file.jarVersion}"
+displayName="SocialBlock Economy Mod"
+authors="SocialBlock"
+description='''Un mod d\'économie basé sur les interactions sociales'''

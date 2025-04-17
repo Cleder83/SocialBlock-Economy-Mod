@@ -1,0 +1,22 @@
+# Fichiers spécifiques à Minecraft/Forge
+.gradle/
+build/
+run/
+out/
+eclipse/
+
+# Fichiers spécifiques à IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Fichiers générés
+*.class
+*.log
+bin/
+gen/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
