@@ -11,10 +11,14 @@ Un mod Minecraft Forge 1.20.1 ajoutant un système économique basé sur les int
 
 ### Prérequis
 - Java JDK 17
-- Minecraft 1.20.1
-- Forge MDK
+
 
 ### Installation développement
-1. Cloner le dépôt
+Installer Intellij Idea
+Cloner le dépôt
 ```bash
 git clone https://github.com/votre-utilisateur/socialblock-economy-mod.git
+
+puis après l'import faites la commande
+./gradlew genIntellijRuns
+et en haut à droite  dans current files selectionnez RunClient et le jeu se lancera
